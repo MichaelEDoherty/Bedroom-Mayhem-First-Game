@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"action_highscore_show",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"action_highscore_show",
+  "parent":{
+    "name":"action",
+    "path":"folders/Scripts/compatibility/action.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

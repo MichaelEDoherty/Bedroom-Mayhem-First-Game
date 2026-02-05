@@ -1,0 +1,65 @@
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_wall\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_wall\Step_0.gml - 2: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_wall\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock1\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock1\Step_0.gml - 2: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock1\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock2\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock2\Step_0.gml - 2: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock2\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock3\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock3\Step_0.gml - 2: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_sock3\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy1\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy1\Step_0.gml - 2: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy1\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy4\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy4\Step_0.gml - 2: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy4\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy3\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy3\Step_0.gml - 3: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy3\Step_0.gml
+
+Converting GML script: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy2\Step_0.gml
+ERROR: F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy2\Step_0.gml - 3: Got 'x' (id) expected ','
+Too many errors - GML not processed : F:\Michael's\michael's stuff\games\Video games\gmaker\bedroom mayhem.gmx\mvc\objects\obj_enemy2\Step_0.gml
+
+Missing audiogroup for sound: 'sound_laser' - setting to default audio group
+Missing audiogroup for sound: 'sound_explosion2' - setting to default audio group
+Missing audiogroup for sound: 'sound4' - setting to default audio group
+Missing audiogroup for sound: 'sound_Background' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action\action_change_object.gml'
+Added compatibility script 'action\action_color.gml'
+Added compatibility script 'action\action_create_object.gml'
+Added compatibility script 'action\action_draw_health.gml'
+Added compatibility script 'action\action_draw_life_images.gml'
+Added compatibility script 'action\action_draw_score.gml'
+Added compatibility script 'action\action_draw_sprite.gml'
+Added compatibility script 'action\action_highscore_show.gml'
+Added compatibility script 'action\action_if_number.gml'
+Added compatibility script 'action\action_if_variable.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'action\action_move_point.gml'
+Added compatibility script 'action\action_move_to.gml'
+Added compatibility script 'action\action_restart_game.gml'
+Added compatibility script 'action\action_set_alarm.gml'
+Added compatibility script 'action\action_set_caption.gml'
+Added compatibility script 'action\action_set_health.gml'
+Added compatibility script 'action\action_set_hspeed.gml'
+Added compatibility script 'action\action_set_life.gml'
+Added compatibility script 'action\action_set_relative.gml'
+Added compatibility script 'action\action_set_score.gml'
+Added compatibility script 'action\action_sleep.gml'
+Added compatibility script 'action\action_sound.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
